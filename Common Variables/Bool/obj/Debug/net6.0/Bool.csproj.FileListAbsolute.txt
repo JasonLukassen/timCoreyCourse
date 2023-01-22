@@ -1,0 +1,15 @@
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Bool\bin\Debug\net6.0\Bool.exe
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Bool\bin\Debug\net6.0\Bool.deps.json
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Bool\bin\Debug\net6.0\Bool.runtimeconfig.json
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Bool\bin\Debug\net6.0\Bool.dll
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Bool\bin\Debug\net6.0\Bool.pdb
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Bool\obj\Debug\net6.0\Bool.csproj.AssemblyReference.cache
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Bool\obj\Debug\net6.0\Bool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Bool\obj\Debug\net6.0\Bool.AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Bool\obj\Debug\net6.0\Bool.AssemblyInfo.cs
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Bool\obj\Debug\net6.0\Bool.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Bool\obj\Debug\net6.0\Bool.dll
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Bool\obj\Debug\net6.0\refint\Bool.dll
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Bool\obj\Debug\net6.0\Bool.pdb
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Bool\obj\Debug\net6.0\Bool.genruntimeconfig.cache
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Bool\obj\Debug\net6.0\ref\Bool.dll

@@ -1,0 +1,15 @@
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\DateOnly\bin\Debug\net6.0\DateOnly.exe
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\DateOnly\bin\Debug\net6.0\DateOnly.deps.json
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\DateOnly\bin\Debug\net6.0\DateOnly.runtimeconfig.json
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\DateOnly\bin\Debug\net6.0\DateOnly.dll
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\DateOnly\bin\Debug\net6.0\DateOnly.pdb
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\DateOnly\obj\Debug\net6.0\DateOnly.csproj.AssemblyReference.cache
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\DateOnly\obj\Debug\net6.0\DateOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\DateOnly\obj\Debug\net6.0\DateOnly.AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\DateOnly\obj\Debug\net6.0\DateOnly.AssemblyInfo.cs
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\DateOnly\obj\Debug\net6.0\DateOnly.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\DateOnly\obj\Debug\net6.0\DateOnly.dll
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\DateOnly\obj\Debug\net6.0\refint\DateOnly.dll
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\DateOnly\obj\Debug\net6.0\DateOnly.pdb
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\DateOnly\obj\Debug\net6.0\DateOnly.genruntimeconfig.cache
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\DateOnly\obj\Debug\net6.0\ref\DateOnly.dll

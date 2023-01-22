@@ -1,0 +1,15 @@
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Homework - Type Conversions\bin\Debug\net6.0\Homework - Type Conversions.exe
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Homework - Type Conversions\bin\Debug\net6.0\Homework - Type Conversions.deps.json
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Homework - Type Conversions\bin\Debug\net6.0\Homework - Type Conversions.runtimeconfig.json
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Homework - Type Conversions\bin\Debug\net6.0\Homework - Type Conversions.dll
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Homework - Type Conversions\bin\Debug\net6.0\Homework - Type Conversions.pdb
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Homework - Type Conversions\obj\Debug\net6.0\Homework - Type Conversions.csproj.AssemblyReference.cache
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Homework - Type Conversions\obj\Debug\net6.0\Homework - Type Conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Homework - Type Conversions\obj\Debug\net6.0\Homework - Type Conversions.AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Homework - Type Conversions\obj\Debug\net6.0\Homework - Type Conversions.AssemblyInfo.cs
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Homework - Type Conversions\obj\Debug\net6.0\Homework - Type Conversions.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Homework - Type Conversions\obj\Debug\net6.0\Homework - Type Conversions.dll
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Homework - Type Conversions\obj\Debug\net6.0\refint\Homework - Type Conversions.dll
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Homework - Type Conversions\obj\Debug\net6.0\Homework - Type Conversions.pdb
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Homework - Type Conversions\obj\Debug\net6.0\Homework - Type Conversions.genruntimeconfig.cache
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\Homework - Type Conversions\obj\Debug\net6.0\ref\Homework - Type Conversions.dll

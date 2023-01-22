@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\string\\string"
+    "\\Common Variables",
+    "\\Common Variables\\Double",
+    "\\Common Variables\\Int"
   ],
   "PreviewInSolutionExplorer": false
 }

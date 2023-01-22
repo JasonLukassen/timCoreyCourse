@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jason\\source\\repos\\timCoreyCourse\\Common Variables\\Double\\Double.csproj",
-      "projectName": "Double",
-      "projectPath": "C:\\Users\\jason\\source\\repos\\timCoreyCourse\\Common Variables\\Double\\Double.csproj",
+      "projectUniqueName": "C:\\Users\\jason\\source\\repos\\timCoreyCourse\\Common Variables\\Double\\3. Double.csproj",
+      "projectName": "3. Double",
+      "projectPath": "C:\\Users\\jason\\source\\repos\\timCoreyCourse\\Common Variables\\Double\\3. Double.csproj",
       "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jason\\source\\repos\\timCoreyCourse\\Common Variables\\Double\\obj\\",
       "projectStyle": "PackageReference",
