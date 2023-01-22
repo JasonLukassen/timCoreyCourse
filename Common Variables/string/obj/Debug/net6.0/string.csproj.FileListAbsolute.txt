@@ -1,0 +1,30 @@
+C:\Users\jason\source\repos\timCoreyCourse\string\string\bin\Debug\net6.0\string.exe
+C:\Users\jason\source\repos\timCoreyCourse\string\string\bin\Debug\net6.0\string.deps.json
+C:\Users\jason\source\repos\timCoreyCourse\string\string\bin\Debug\net6.0\string.runtimeconfig.json
+C:\Users\jason\source\repos\timCoreyCourse\string\string\bin\Debug\net6.0\string.dll
+C:\Users\jason\source\repos\timCoreyCourse\string\string\bin\Debug\net6.0\string.pdb
+C:\Users\jason\source\repos\timCoreyCourse\string\string\obj\Debug\net6.0\string.csproj.AssemblyReference.cache
+C:\Users\jason\source\repos\timCoreyCourse\string\string\obj\Debug\net6.0\string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\source\repos\timCoreyCourse\string\string\obj\Debug\net6.0\string.AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\timCoreyCourse\string\string\obj\Debug\net6.0\string.AssemblyInfo.cs
+C:\Users\jason\source\repos\timCoreyCourse\string\string\obj\Debug\net6.0\string.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\timCoreyCourse\string\string\obj\Debug\net6.0\string.dll
+C:\Users\jason\source\repos\timCoreyCourse\string\string\obj\Debug\net6.0\refint\string.dll
+C:\Users\jason\source\repos\timCoreyCourse\string\string\obj\Debug\net6.0\string.pdb
+C:\Users\jason\source\repos\timCoreyCourse\string\string\obj\Debug\net6.0\string.genruntimeconfig.cache
+C:\Users\jason\source\repos\timCoreyCourse\string\string\obj\Debug\net6.0\ref\string.dll
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\string\bin\Debug\net6.0\string.exe
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\string\bin\Debug\net6.0\string.deps.json
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\string\bin\Debug\net6.0\string.runtimeconfig.json
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\string\bin\Debug\net6.0\string.dll
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\string\bin\Debug\net6.0\string.pdb
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\string\obj\Debug\net6.0\string.csproj.AssemblyReference.cache
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\string\obj\Debug\net6.0\string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\string\obj\Debug\net6.0\string.AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\string\obj\Debug\net6.0\string.AssemblyInfo.cs
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\string\obj\Debug\net6.0\string.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\string\obj\Debug\net6.0\string.dll
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\string\obj\Debug\net6.0\refint\string.dll
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\string\obj\Debug\net6.0\string.pdb
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\string\obj\Debug\net6.0\string.genruntimeconfig.cache
+C:\Users\jason\source\repos\timCoreyCourse\Common Variables\string\obj\Debug\net6.0\ref\string.dll
