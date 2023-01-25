@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+//  Conditions  -   Basic If Statements
+
+
+bool isComplete = false;
+
+if (isComplete)
+{
+    Console.WriteLine(value: "The statement was true");
+}
